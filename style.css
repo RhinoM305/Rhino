@@ -1,0 +1,69 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color:#FF8A82;
+
+/* html, body is coloring entire page pink*/
+  
+}
+.logo {
+  text-align: center;
+  text-font: times new roman;
+  color: white;
+  font-size: 40px;
+  padding:35px;
+  margin:0px;
+/*logo settings*/
+  
+  
+}
+header {
+  background-color: #153243;
+  
+}
+/*simply made the top part of my page housing my header dark blue*/
+.mainfoot {
+  text-align: center; 
+  background-color: #153243;
+  height: 20%;
+  font-size:20px;
+  padding: 10px;
+}
+/*similair to header this is repeating the same thing but slightly diffrent aka smaller*/
+main, p {
+  text-align: center;
+  font-size: 17px;
+  height:100%;
+  width:100%
+}
+/* giving main some structure I wanted all text to begin in the middle*/
+.nft {
+  height: 200px;
+  width: 200px;
+  padding:20px;
+}
+/*gave the picture some sizing */
+
+.btn {
+  background-color: green;
+  border: 2px solid black;
+  color: black;
+  padding: 3px 8px;
+  text-align:center;
+  display:inline-block;
+  text-decoration:none;
+}
+/*did not want links to be plain so I made them buttons*/
+hr {
+border:2px solid black;
+  
+}
+/*just some coloring for horizontal lines*/
+.blocktext {
+  margin-left:auto;
+  margin-right:auto;
+  width: 32em;
+}
+/*the one Im most proud of this one blocks the text together so its all centered in the middle of screen*/
